@@ -1,12 +1,3 @@
-[getjson]
-dir = ":resourceDir/_get"
-maxAge = -1
-[getresource]
-dir = ":resourceDir/_get"
-maxAge = -1
-[getcsv]
-dir = ":resourceDir/_get"
-maxAge = -1
 [images]
 dir = ":resourceDir/_gen"
 maxAge = -1

@@ -15,9 +15,9 @@ linkTitle = "Agentless"
 
 The target node can be any remote system, edge device, or cloud resource that the host can reach. This includes edge devices, Wi-Fi routers, switches, relays, cloud resources, IP phones, router hubs, and network management peripherals.
 
-## Supported platforms
+## Supported **Target** Platforms
 
-Agentless Mode only executes on Linux nodes.
+Agentless Mode only executes on Linux **Target** nodes.
 
 ## Transport Interface (Train)
 
